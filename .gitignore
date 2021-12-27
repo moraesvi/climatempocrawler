@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CTCrawler.Common/bin
+/CTCrawler.Common/obj
+/CTCrawler.Parse/bin
+/CTCrawler.Parse/obj
+/CTCrawler.Test/bin
+/CTCrawler.Test/obj
+/CTCrawler.WebApi/bin
+/CTCrawler.WebApi/obj
